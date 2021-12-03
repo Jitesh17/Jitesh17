@@ -4,7 +4,7 @@
 <div
 align="right">
 <img
-src="https://komarev.com/ghpvc/?username=Jitesh17&&style=flat-square" align="right" />
+src="https://komarev.com/ghpvc/?username=Jitesh17&&style=plastic" align="right" />
 </div>
 
 I am an AI engineer from India :india: and now working in Japan :jp:. I am interested in data science, deep learning, computer vision, 3D simulations, and robotics. I love playing chess, reading and discussing philosophy, and traveling!
@@ -53,7 +53,7 @@ I am an AI engineer from India :india: and now working in Japan :jp:. I am inter
 [<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows)
 [<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">](https://ubuntu.com/)
 [<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
-[<img alt="streamlit" height="20px"  src="https://docs.streamlit.io/en/stable/_static/logomark_website.png"/>](https://www.streamlit.io/)
+[<img alt="unity" width="26px" src="https://img.icons8.com/fluency/48/000000/unity.png">](https://unity.com/)
 
 ## Github Stats
 
